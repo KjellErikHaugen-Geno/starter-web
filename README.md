@@ -1,6 +1,6 @@
 # Starte Web Project
-##INtroduction
+## Introduction
 
-##Purpose
+## Purpose
 
 ## How to Contribute
