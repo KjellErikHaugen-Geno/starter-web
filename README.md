@@ -18,10 +18,13 @@ demos.
 ## Deployment
 
 This is a simple web project, deployment
-can be on any web server or even local
+can be on any web server or even localt
 file system.
 
 ## How to Contribute
+
+Please fork this repository and then issue Pull Request for 
+review
 
 ### Copyright
 2014 Git.Training
